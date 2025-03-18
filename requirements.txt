@@ -1,0 +1,65 @@
+# utils
+tqdm
+termcolor
+rich
+h5py
+ujson
+addict
+psutil
+prwlock
+ruamel.yaml
+pyyaml
+
+# pytorch
+# refer to https://pytorch.org/get-started/locally for specific version
+# torch
+# torchvision
+# torchaudio
+timm
+torchmetrics
+tensorboard
+tensorboardX
+lpips
+
+# image
+scikit-image
+opencv-python
+imageio
+imageio-ffmpeg
+pillow
+matplotlib
+
+# numerical
+scipy
+sympy
+numpy<2.0.0
+einops # Flexible and powerful tensor operations
+taichi # Taichi Lang is a domain-specific language for high-performance computing
+
+# 3d vision
+trimesh
+plyfile
+pycolmap
+open3d
+pyntcloud
+pymeshlab
+kornia # Geometric Computer Vision Library
+
+# system
+ipdb
+pdbr
+ninja
+gpustat
+nvitop
+ipython
+websockets
+
+# python lsp
+yapf
+black
+isort
+
+# extensions
+tinycudann @ git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+simple_knn @ git+https://gitlab.inria.fr/bkerbl/simple-knn
+torch-scatter @ git+https://github.com/rusty1s/pytorch_scatter
