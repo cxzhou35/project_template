@@ -34,7 +34,7 @@ scipy
 sympy
 numpy<2.0.0
 einops # Flexible and powerful tensor operations
-taichi # Taichi Lang is a domain-specific language for high-performance computing
+taichi # Taichi Lang for high-performance computing
 
 # 3d vision
 trimesh
